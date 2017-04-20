@@ -1,0 +1,1 @@
+{"status":"error","publicPath":"http://localhost:3000/assets/bundles/","error":"ModuleBuildError","message":"Module build failed: SyntaxError: Unexpected token (7:16)\n\n  5 | \n  6 | var ReactDom = require('react-dom');\n> 7 | ReactDom.render(<APP />, document.getElementById('react-container'));\n    |                 ^\n  8 | \n"}
